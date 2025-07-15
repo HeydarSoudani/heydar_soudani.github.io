@@ -94,6 +94,16 @@ content:
         sub_title: "A survey on recent advances in conversational data generation"       
         description: | # this will include new lines to allow paragraphs
             ....
+
+      - layout: left
+        title: COLING 2022
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://aclanthology.org/2022.coling-1.380
+        sub_title: "Persian Natural Language Inference: A Meta-learning Approach"
+        description: | # this will include new lines to allow paragraphs
+            ....
   
   
   
