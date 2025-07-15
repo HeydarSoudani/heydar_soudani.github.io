@@ -66,21 +66,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Uncertainty Estimation for RAG
-        additional_links:
-          - title:  See paper
-            icon: fas fa-file-pdf
-            url: 
+        title: Uncertainty Estimation for RAG  
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
             ....
       
       - layout: left
         title: Benchmark for High Recall RAG
-        additional_links:
-          - title:  See paper
-            icon: fas fa-file-pdf
-            url: 
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
             ....
