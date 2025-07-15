@@ -74,7 +74,15 @@ content:
         sub_title: "Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis"       
         description: | # this will include new lines to allow paragraphs
             ....
-
+      - layout: left
+        title: SIGIR-AP 2024 - Main track
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://dl.acm.org/doi/10.1145/3673791.3698415
+        sub_title: "Fine tuning vs. retrieval augmented generation for less popular knowledge"       
+        description: | # this will include new lines to allow paragraphs
+            ....
   
   
   
