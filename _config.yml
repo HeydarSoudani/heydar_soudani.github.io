@@ -9,7 +9,7 @@ version: 2
 name: Heydar Soudani
 title: PhD candidate @ Radboud University | Information Retrieval | Large language models | Data Generation | Retrieval Augmented Generation | Uncertainty Estimation
 email: heydar.soudani@ru.nl
-website: www.heydarsoudani.github.io
+website: heydarsoudani.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -62,6 +62,22 @@ Find me on [Linkedin](https://www.linkedin.com/in/heydar-soudani-2b7650144/), [G
 
 
 content:
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ACL 2025 - Findings track
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://arxiv.org/pdf/2505.07459
+        sub_title: "Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis"       
+        description: | # this will include new lines to allow paragraphs
+            ....
+
+  
+  
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
