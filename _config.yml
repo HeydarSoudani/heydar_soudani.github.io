@@ -113,7 +113,7 @@ content:
             ....
 
       - layout: left
-        title: ACM Surveys (UR...) 2025
+        title: ACM Surveys (under review) 2025
         additional_links:
           - title: See paper
             icon: fas fa-file-pdf
