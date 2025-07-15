@@ -172,6 +172,9 @@ content:
           - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/10.1145/3589335.3641238
+          - title: See website
+            icon: fas fa-globe
+            url: https://dataug-convai.github.io
           - title: See video
             icon: fas fa-video
             url: https://www.youtube.com/watch?v=NGw089DVk3s
@@ -185,6 +188,9 @@ content:
           - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
+          - title: See website
+            icon: fas fa-globe
+            url: https://dataug-convai.github.io/cikm23
         sub_title: "Data Augmentation for Conversational AI (Version 1)"       
         description: | # this will include new lines to allow paragraphs
             Tutorial ....
