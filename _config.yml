@@ -94,6 +94,12 @@ content:
           - title:  See paper
             icon: fas fa-file-pdf
             url: https://arxiv.org/pdf/2505.07459
+          - title:  See slides
+            icon: fas fa-chalkboard-teacher
+            url: https://heydarsoudani.github.io/slides/UEforRAG_ACL2025.pdf
+          - title:  See code
+            icon: fas fa-code
+            url: https://github.com/HeydarSoudani/RAG_UNC
         sub_title: "Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis"       
         description: | # this will include new lines to allow paragraphs
             ....
