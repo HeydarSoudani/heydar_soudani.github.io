@@ -130,7 +130,7 @@ content:
 
   
   - title: Tutorials & Talks
-    layout: text
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: SIGIR 2025
