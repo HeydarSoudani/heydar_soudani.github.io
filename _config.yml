@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 Find me on [Linkedin](https://www.linkedin.com/in/heydar-soudani-2b7650144/), [GitHub](https://github.com/HeydarSoudani/), or email me: heydar.soudani@ru.nl
 
 
-
+content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
