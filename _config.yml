@@ -104,6 +104,9 @@ content:
           - title:  See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/10.1145/3673791.3698415
+          - title:  See slides
+            icon: fas fa-chalkboard-teacher
+            url: slides/FTvsRAG_SIGIRAP24.pdf
         sub_title: "Fine tuning vs. retrieval augmented generation for less popular knowledge"       
         description: | # this will include new lines to allow paragraphs
             ....
