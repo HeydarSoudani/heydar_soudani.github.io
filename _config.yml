@@ -107,13 +107,13 @@ content:
       - layout: left
         title: SIGIR-AP 2024
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/10.1145/3673791.3698415
-          - title:  See slides
+          - title: See slides
             icon: fas fa-chalkboard-teacher
             url: https://heydarsoudani.github.io/slides/FTvsRAG_SIGIRAP24.pdf
-          - title:  See code
+          - title: See code
             icon: fas fa-code
             url: https://github.com/HeydarSoudani/RAGvsFT
         sub_title: "Fine tuning vs. retrieval augmented generation for less popular knowledge"       
@@ -123,13 +123,13 @@ content:
       - layout: left
         title: ACM Surveys (UR...) 2025
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://arxiv.org/pdf/2405.13003
-          - title:  See slides
+          - title: See slides
             icon: fas fa-chalkboard-teacher
             url: https://heydarsoudani.github.io/slides/DAforConvAI_WWW24.pdf
-          - title:  See website
+          - title: See website
             icon: fas fa-globe
             url: https://dataug-convai.github.io/survey
         sub_title: "A survey on recent advances in conversational data generation"       
@@ -139,9 +139,12 @@ content:
       - layout: left
         title: COLING 2022
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://aclanthology.org/2022.coling-1.380
+          - title: See code
+            icon: fas fa-code
+            url: https://github.com/mojabyte/MetaNLI
         sub_title: "Persian Natural Language Inference: A Meta-learning Approach"
         description: | # this will include new lines to allow paragraphs
             aaa .....
@@ -153,7 +156,7 @@ content:
       - layout: left
         title: SIGIR 2025
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/10.1145/3726302.3730130
         sub_title: "Enhancing Knowledge Injection in Large Language Models for Efficient and Trustworthy Responses"       
@@ -163,7 +166,7 @@ content:
       - layout: left
         title: WWW 2024
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/10.1145/3589335.3641238
         sub_title: "Data Augmentation for Conversational AI (Version 2)"       
@@ -173,7 +176,7 @@ content:
       - layout: left
         title: CIKM 2023
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
         sub_title: "Data Augmentation for Conversational AI (Version 1)"       
@@ -183,7 +186,7 @@ content:
       - layout: left
         title: ICTOpen 2025
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
         sub_title: "RAG vs. Fine-tuning"       
@@ -193,7 +196,7 @@ content:
       - layout: left
         title: KPN AI Group 2025
         additional_links:
-          - title:  See paper
+          - title: See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
         sub_title: "UE for RAG: Axiomatic Analysis"       
