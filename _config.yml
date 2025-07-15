@@ -62,7 +62,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/heydar-soudani-2b7650144/), [G
 
 
 content:
-   - title: Current Focus # Title for the section
+  - title: Current Focus # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -74,6 +74,7 @@ content:
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
             ....
+      
       - layout: left
         title: Benchmark for High Recall RAG
         additional_links:
@@ -83,8 +84,7 @@ content:
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
             ....
-            
-  
+          
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
