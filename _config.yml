@@ -131,7 +131,7 @@ content:
   
   - title: Tutorials & Talks
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: # this will include new lines to allow paragraphs
        - layout: left
         title: SIGIR 2025
         additional_links:
