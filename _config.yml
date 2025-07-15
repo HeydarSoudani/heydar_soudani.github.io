@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ACL 2025 - Findings track
+        title: ACL 2025
         additional_links:
           - title:  See paper
             icon: fas fa-file-pdf
@@ -74,13 +74,24 @@ content:
         sub_title: "Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis"       
         description: | # this will include new lines to allow paragraphs
             ....
+      
       - layout: left
-        title: SIGIR-AP 2024 - Main track
+        title: SIGIR-AP 2024
         additional_links:
           - title:  See paper
             icon: fas fa-file-pdf
             url: https://dl.acm.org/doi/10.1145/3673791.3698415
         sub_title: "Fine tuning vs. retrieval augmented generation for less popular knowledge"       
+        description: | # this will include new lines to allow paragraphs
+            ....
+
+      - layout: left
+        title: ACM Surveys (UR...) 2025
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://arxiv.org/pdf/2405.13003
+        sub_title: "A survey on recent advances in conversational data generation"       
         description: | # this will include new lines to allow paragraphs
             ....
   
