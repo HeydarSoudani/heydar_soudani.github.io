@@ -105,7 +105,39 @@ content:
         description: | # this will include new lines to allow paragraphs
             ....
   
-  
+  - title: Tutorials & Talks
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+       - layout: left
+        title: SIGIR 2025
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://dl.acm.org/doi/10.1145/3726302.3730130
+        sub_title: "Enhancing Knowledge Injection in Large Language Models for Efficient and Trustworthy Responses"       
+        description: | # this will include new lines to allow paragraphs
+            DC ....
+
+      - layout: left
+        title: WWW 2024
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://dl.acm.org/doi/10.1145/3589335.3641238
+        sub_title: "Data Augmentation for Conversational AI (Version 2)"       
+        description: | # this will include new lines to allow paragraphs
+            DC ....
+
+      - layout: left
+        title: CIKM 2023
+        additional_links:
+          - title:  See paper
+            icon: fas fa-file-pdf
+            url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
+        sub_title: "Data Augmentation for Conversational AI (Version 1)"       
+        description: | # this will include new lines to allow paragraphs
+            DC ....
+
   
   - title: A Little More About Me
     layout: text
