@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Uncertainty Estimation for RAG  
+        title: Uncertainty Estimation for RAG-Reasoning Agents  
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
             ....
