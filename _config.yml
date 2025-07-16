@@ -69,7 +69,7 @@ content:
         title: Uncertainty Estimation for RAG-Reasoning Agents  
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
-            ....
+            One of our primary goals is to propose an uncertainty estimation method for RAG-based reasoning systems. In such systems, the model generates a sequence of reasoning steps and search queries that ultimately lead to a final answer. Our objective is to define an uncertainty score for the final answer, which can serve as a proxy for evaluating the system's reliability.
       
       - layout: left
         title: Benchmark for High Recall RAG
