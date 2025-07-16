@@ -79,7 +79,7 @@ content:
         title: Benchmark for High Recall RAG
         sub_title: "In progress ..."       
         description: | # this will include new lines to allow paragraphs
-            ....
+            Our aim is to create or benchmark a RAG dataset that presents the challenge of total or high-recall retrieval. This dataset should contain queries for which answering correctly requires retrieving all relevant and necessary documents. This project is currently in its early stages.
           
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
