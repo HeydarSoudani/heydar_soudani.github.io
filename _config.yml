@@ -195,7 +195,7 @@ content:
             url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
         sub_title: "RAG vs. Fine-tuning"       
         description: | # this will include new lines to allow paragraphs
-            I presented our SIGIR-AP 2024 paper titled “Fine tuning vs. retrieval augmented generation for less popular knowledge” at ICTOpen on April 2025.
+            I presented our SIGIR-AP 2024 paper titled “Fine tuning vs. retrieval augmented generation for less popular knowledge” at ICTOpen in April 2025.
 
       - layout: left
         title: KPN AI Group 2025
@@ -205,7 +205,7 @@ content:
             url: https://dl.acm.org/doi/abs/10.1145/3583780.3615291
         sub_title: "UE for RAG: Axiomatic Analysis"       
         description: | # this will include new lines to allow paragraphs
-            I presented our ACL 2025 paper titled “Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis” at AI group of KPN on April 2025.
+            I presented our ACL 2025 paper titled “Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis” at AI group of KPN in May 2025.
 
   
   - title: A Little More About Me
