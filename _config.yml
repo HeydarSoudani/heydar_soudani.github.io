@@ -156,7 +156,7 @@ content:
             url: https://heydarsoudani.github.io/slides/DC_SIGIR25.pdf
         sub_title: "Enhancing Knowledge Injection in Large Language Models for Efficient and Trustworthy Responses"       
         description: | # this will include new lines to allow paragraphs
-            DC ....
+            LLMs excel across various tasks but often generate incorrect or inappropriate outputs due to knowledge limitations in specific domains. Augmenting LLMs with additional knowledge is a promising solution for generating correct responses. This can be achieved through parametric methods, which involve integrating knowledge directly into the model's parameters, or non-parametric methods, which incorporate external information such as retrieved text chunks. However, challenges persist regarding the methods, content, and timing of integrating this knowledge. This study aims to identify optimal strategies for incorporating knowledge into LLMs to ensure trustworthy responses. Key research questions include comparing parametric and non-parametric knowledge injection methods, utilizing uncertainty to predict the accuracy of LLM-generated response, and determining when LLMs should incorporate external knowledge. By addressing these areas, our research seeks to enhance LLM response generation and pave the way for conversational information-seeking systems that meet users information needs with reliable  and transparent responses.
 
       - layout: left
         title: WWW 2024
