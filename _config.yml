@@ -30,7 +30,7 @@ linkedin_username: heydar-soudani-2b7650144
 # orcid_username: 0000-0000-0000-0000
 additional_links:
 - title: scholar link
-  icon: fas fa-box-archive
+  icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=PKdMg1AAAAAJ&hl=en&oi=ao
 
 # Additional icon links
