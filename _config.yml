@@ -33,10 +33,10 @@ additional_links:
   icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=PKdMg1AAAAAJ&hl=en&oi=ao
 
-additional_links:
-- title: cv
-  icon: fas fa-file-alt
-  url: https://heydarsoudani.github.io/slides/HeydarSoudani_CV.pdf
+# additional_links:
+# - title: cv
+#   icon: fas fa-file-alt
+#   url: 
   
 # Additional icon links
 # additional_links:
@@ -62,6 +62,8 @@ about_content: | # this will include new lines to allow paragraphs
   My research interests lie in data generation using LLMs, as well as enhancing the reliability and interpretability of RAG through uncertainty estimation. I have over eight years of experience in data engineering, back-end development, and software engineering, and have published multiple papers at prestigious conferences during my PhD and MSc.
 
   I recently began a collaboration with Mohammad Aliannejadi (University of Amsterdam) and Hamed Zamani (University of Massachusetts Amherst) to create challenging benchmarks for evaluating RAG systems. My passion lies in pushing the boundaries of information retrieval and LLM-based systems, while also ensuring their practical impact in real-world applications.
+
+  For additional information about my background, see my complete CV [here](https://heydarsoudani.github.io/slides/HeydarSoudani_CV.pdf).
 
 Find me on [Linkedin](https://www.linkedin.com/in/heydar-soudani-2b7650144/), [GitHub](https://github.com/HeydarSoudani/), or email me: heydar.soudani@ru.nl
 
