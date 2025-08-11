@@ -63,7 +63,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I recently began a collaboration with Mohammad Aliannejadi (University of Amsterdam) and Hamed Zamani (University of Massachusetts Amherst) to create challenging benchmarks for evaluating RAG systems. My passion lies in pushing the boundaries of information retrieval and LLM-based systems, while also ensuring their practical impact in real-world applications.
 
-  For additional information about my background, see my complete CV [here](https://heydarsoudani.github.io/slides/HeydarSoudani_CV.pdf).
+  For additional information about my background, see my complete CV <a href="https://heydarsoudani.github.io/slides/HeydarSoudani_CV.pdf" target="_blank">here</a>.
+
 
 Find me on [Linkedin](https://www.linkedin.com/in/heydar-soudani-2b7650144/), [GitHub](https://github.com/HeydarSoudani/), or email me: heydar.soudani@ru.nl
 
