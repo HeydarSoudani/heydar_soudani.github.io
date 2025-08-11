@@ -10,17 +10,10 @@ name: Heydar Soudani
 title: PhD candidate @ Radboud University | Information Retrieval | Retrieval Augmented Generation | Synthetic Data Generation | Uncertainty Estimation
 email: heydar.soudani@ru.nl
 website: heydarsoudani.github.io
-# Content
-content:
-  - title: ""
-    layout: list
-    content:
-      - layout: text
-        title: Links
-        additional_links:
-          - title: CV
-            icon: fas fa-file-alt
-            url: https://heydarsoudani.github.io/slides/HeydarSoudani_CV.pdf
+additional_links:
+  - title: CV
+    icon: fab fa-readme
+    url: https://heydarsoudani.github.io/slides/HeydarSoudani_CV.pdf
 
 
 # Dark Mode (true/false/never)
